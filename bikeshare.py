@@ -1,8 +1,14 @@
+<<<<<<< HEAD
 #Python code to evaluate usage patterns for as bike share system provider
+||||||| 14161e6
+=======
+#Import libraries
+>>>>>>> 96c0e40b88567e0ee5b1dd08e35e2fe26e25aef4
 import time
 import pandas as pd
 import numpy as np
 
+#Available cities for bikeshare evaluation
 CITY_DATA = { 'chicago': 'chicago.csv',
               'new york city': 'new_york_city.csv',
               'washington': 'washington.csv' }
